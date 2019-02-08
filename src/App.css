@@ -1,0 +1,20 @@
+.App {
+	width: 320px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+#display {
+	margin-bottom: 16px;
+}
+#drum-pads {
+	display: flex;
+	flex-wrap: wrap;
+}
+.drum-pad {
+	width: 33.33%;
+	height: 106.66px;
+}

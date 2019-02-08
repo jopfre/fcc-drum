@@ -1,0 +1,3 @@
+export const PLAY_SAMPLE = 'PLAY_SAMPLE';
+export const PAUSE_SAMPLE = 'PAUSE_SAMPLE';
+export const DISPLAY_SAMPLE = 'DISPLAY_SAMPLE';
